@@ -1,0 +1,8 @@
+{
+    "python.linting.pylintArgs": [
+        "--load-plufins=pylint_django",
+        "--django-settings-module=diy.settings",
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
